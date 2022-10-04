@@ -8,3 +8,7 @@ Nuxt music will be a rebuild of the ZTM course for Vue but instead of building o
 * Pinia
 * Firebase 9
 * Tailwindcss
+
+## Contribute
+
+If you want to contribute you are more then welcome to do so.
