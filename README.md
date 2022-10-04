@@ -2,7 +2,8 @@
 
 Nuxt music will be a rebuild of the ZTM course for Vue but instead of building out the app in Vue we rebuilding it in Nuxt3
 
-### Stack
+## Stack
+
 * Nuxt 3
 * Typescript
 * Pinia
@@ -11,4 +12,4 @@ Nuxt music will be a rebuild of the ZTM course for Vue but instead of building o
 
 ## Contribute
 
-If you want to contribute you are more then welcome to do so.
+If you want to contribute you are more then welcome to do so
